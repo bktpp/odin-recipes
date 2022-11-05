@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is for me to build a html doc to reflect a recipe of some sort.  Upon completing this project, I will have demonstarted to properly use the correct html tags and elements.  If done correctly, the page should populate in a readable manner on the web browser.
